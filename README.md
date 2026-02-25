@@ -1,4 +1,27 @@
-## Hi there 👋
+# 👨‍💻 João Paulo Monteiro
+
+Desenvolvedor Backend em formação.
+
+🚀 Focado em Python e criação de APIs  
+💾 Estudando Banco de Dados  
+🎯 Objetivo: Trabalhar como desenvolvedor backend  
+
+---
+
+## 🧠 O que estou aprendendo
+
+- Python
+- APIs REST
+- Banco de Dados
+- Git e GitHub
+
+---
+
+## 🚀 Projetos em construção
+
+🔹 API de Cadastro  
+🔹 Sistema de Controle Financeiro  
+🔹 Automações com Python  
 
 <!--
 **Hawktero/Hawktero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
